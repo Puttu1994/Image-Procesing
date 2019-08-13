@@ -1,25 +1,3 @@
-// Siddartha Yeliyur Shivakumara Swamy
-// 3149024723
-// yeliyurs@usc.edu
-// January 22nd 2019
-
-
-
-
-
-
-
-
-
-
-
-// This sample code reads in image data from a RAW image file and
-// writes it into another file
-
-// NOTE:	The code assumes that the image is of size 256 x 256 and is in the
-//			RAW format. You will need to make corresponding changes to
-//			accommodate images of different sizes and/or types
-
 #include <stdio.h>
 #include <iostream>
 #include <stdlib.h>
