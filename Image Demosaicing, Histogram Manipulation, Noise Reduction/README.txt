@@ -1,10 +1,3 @@
-## Siddartha Yeliyur Shivakumara Swamy
-## 3149024723
-## yeliyurs@usc.edu
-## January 22nd 2019
-
-
-
 Source File: Demos.cpp :
 	
 	This file performs the bilinear demosaicing operation on a given grayscale image.
