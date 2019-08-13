@@ -56,7 +56,7 @@
 	
 	This file performs the Canny Edge Detection operation on a given grayscale image.
 	To run this file just choose if you want gradient x or y or magnitude and run
-To run this file just compile and execute it in the following format: <source_code.cpp> <input_image.raw> <output_image.raw>
+	To run this file just compile and execute it in the following format: <source_code.cpp> <input_image.raw> <output_image.raw>
 
 
 
